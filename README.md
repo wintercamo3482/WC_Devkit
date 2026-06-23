@@ -2,5 +2,10 @@
 
 | Install | Description |
 | :---: | --- |
-| <a href="https://drive.google.com/file/d/1nYbH_U0l6g7OkU1ZtU7HSUnt9oQ_WWwe/view?usp=drive_link"><img src="./image/icon_vmware_workstation.png" width="50/"><br>**VMware Workstation**</a> | Desktop virtualization software that lets you run multiple operating systems as virtual machines on a single computer. |
+| <a href="https://drive.google.com/file/d/1oFD_4hbMgw0aactIzh4DHr9OwputNgMi/view?usp=drive_link"><img src="./image/icon_arduino_ide.png" width="50"><br>**Arduino IDE**</a> | Development environment used to write, compile, and upload code to Arduino-compatible microcontroller boards. |
+| <a href="https://drive.google.com/file/d/1uf86FxroH-SsYMHptn1awHDlQU0kVeYK/view?usp=drive_link"><img src="./image/icon_foxit_reader.png" width="50"><br>**Foxit Reader**</a> | Fast and lightweight PDF viewer and editor. |
+| <a href="https://drive.google.com/file/d/1S_8ovFPIsJH_l290ZDBH2dmQahyiWi33/view?usp=drive_link"><img src="./image/icon_fritzing.png" width="50"><br>**Fritzing**</a> | Electronics design tool used to create circuit diagrams, breadboard layouts, and PCB designs for prototyping projects. |
 | <a href="https://drive.google.com/file/d/1MzGAnvRKfB1B7QmG7E3FACY2I0GHo1r5/view?usp=drive_link"><img src="./image/icon_q-dir.png" width="50/"><br>**Q-Dir**</a> | Multi-pane file explorer that lets you view and manage multiple folders simultaneously in a single window. |
+| <a href="https://drive.google.com/file/d/1bxd5wYDX_TQIdzSBB0vdvZf3RPd8TM8W/view?usp=drive_link"><img src="./image/icon_visual_studio_code.png" width="50"><br>**Visual Studio Code**</a> | Lightweight, extensible code editor used for writing, debugging, and managing software projects. |
+| <a href="https://drive.google.com/file/d/1nYbH_U0l6g7OkU1ZtU7HSUnt9oQ_WWwe/view?usp=drive_link"><img src="./image/icon_vmware_workstation.png" width="50/"><br>**VMware Workstation**</a> | Desktop virtualization software that lets you run multiple operating systems as virtual machines on a single computer. |
+| <a href="https://drive.google.com/file/d/1ehS1WY0Q5fApW8iMgpo4o3105qlBsGtq/view?usp=drive_link"><img src="./image/icon_win_merge.png" width="50/"><br>**WinMerge**</a> | File comparison and merge utility used for validating configuration files, source code changes, and log differences during development and testing. |
